@@ -24,3 +24,6 @@
 DATAS/
 data/
 reportes/*.xlsx
+
+# Files obtained from a blog post (https://www.shanelynn.ie/self-organising-maps-for-customer-segmentation-using-r/)
+Kohonen-Self-organising-maps-in-R-master/
